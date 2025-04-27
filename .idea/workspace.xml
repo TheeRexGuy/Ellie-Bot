@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecdac553-8a13-4f0e-9876-b67123b19c98" name="Changes" comment="The basic bot, no special utilities.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commands/Botcomms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/el/bot/Botmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/commands/Botcomms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/commands/Botcomms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/el/bot/Botmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/el/bot/Botmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/commands/Botcomms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/commands/Botcomms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/el/bot/Botmain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/el/bot/Botmain.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +42,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Botmain.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
